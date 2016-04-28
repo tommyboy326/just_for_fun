@@ -4,7 +4,7 @@ Landing Zero theme - A free landing page theme from BootstrapZero
 http://www.bootstrapzero.com
 
 */
-
+@import url(http://fonts.googleapis.com/earlyaccess/notosanstc.css);
 @import url(https://fonts.googleapis.com/css?family=Questrial);
 @import url(http://fonts.googleapis.com/css?family=Dancing+Script:700);
 
@@ -15,7 +15,7 @@ body {
 }
 
 body {
-    font-family: 'Questrial','Helvetica Neue',Arial,sans-serif;
+    font-family: 'Noto Sans TC','Questrial','Helvetica Neue',Arial,sans-serif;
     background-color: #282828;
     color: #d3d3d3;
     webkit-tap-highlight-color: #222;
@@ -47,7 +47,7 @@ a:focus {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: 'Questrial','Helvetica Neue',Arial,sans-serif;
+    font-family: 'Noto Sans TC','Questrial','Helvetica Neue',Arial,sans-serif;
 }
 
 p {
@@ -75,7 +75,7 @@ p {
 }
 
 .cursive {
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Noto Sans TC','Dancing Script', cursive;
     text-transform: none;
 }
 
@@ -113,7 +113,7 @@ footer {
 
 .navbar-default {
     border-color: rgba(35,35,35,.05);
-    font-family: 'Questrial','Helvetica Neue',Arial,sans-serif;
+    font-family: 'Noto Sans TC','Questrial','Helvetica Neue',Arial,sans-serif;
     background-color: #222;
     -webkit-transition: all .4s;
     -moz-transition: all .4s;
@@ -121,7 +121,7 @@ footer {
 }
 
 .navbar-header > .navbar-brand {
-    font-family: 'Questrial','Helvetica Neue',Arial,sans-serif;
+    font-family: 'Noto Sans TC','Questrial','Helvetica Neue',Arial,sans-serif;
     color: #9c27b0;
     padding: 15px;
     -webkit-transition: padding .2s ease-in;
